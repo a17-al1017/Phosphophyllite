@@ -1,0 +1,18 @@
+<svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a Phosphophyllite beverage bottle">
+  <defs>
+    <linearGradient id="bevBottle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6FD8C6"/><stop offset="100%" stop-color="#17A398"/>
+    </linearGradient>
+    <linearGradient id="bevCap" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F5F55"/><stop offset="100%" stop-color="#0A2E2B"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="150" cy="310" rx="90" ry="16" fill="#0A2E2B" opacity="0.08"/>
+  <path d="M120 60 L120 30 Q120 18 132 18 L168 18 Q180 18 180 30 L180 60 Q205 90 205 130 L205 280 Q205 300 185 300 L115 300 Q95 300 95 280 L95 130 Q95 90 120 60 Z" fill="url(#bevBottle)"/>
+  <rect x="125" y="14" width="50" height="16" rx="4" fill="url(#bevCap)"/>
+  <polygon points="95,150 205,150 205,225 150,255 95,225" fill="#F3F8F6" opacity="0.95"/>
+  <polygon points="95,150 205,150 150,175" fill="#E8C25C" opacity="0.9"/>
+  <text x="150" y="188" font-family="'Fraunces', Georgia, serif" font-weight="600" font-size="18" fill="#0A2E2B" text-anchor="middle">Phyllite</text>
+  <text x="150" y="204" font-family="'Manrope', Arial, sans-serif" font-size="9" letter-spacing="2" fill="#17A398" text-anchor="middle">SPARKLING MINERAL</text>
+  <path d="M108 130 Q150 110 192 130" stroke="#EAFBF6" stroke-width="4" fill="none" opacity="0.6"/>
+</svg>
